@@ -1,4 +1,4 @@
-name: Push the container image
+name: Push the container image1
 
 on:
   push:
